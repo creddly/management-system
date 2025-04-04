@@ -3,5 +3,6 @@
 int main()
 {
     printf("王如月记得关灯");
+    printf("王如月记得关灯!");
     return 0;
 }
